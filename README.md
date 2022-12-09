@@ -46,7 +46,7 @@ singhbawan: https://github.com/singhbawan
 
 ## Screenshot
 
-<img src = './Capture.JPG' alt = 'image' width = '800' height = '400' style = 'border:3px solid black'>
+<img src = './Capture.jpg' alt = 'image' width = '800' height = '400' style = 'border:3px solid black'>
 
 ## Deployed Site
  https://polar-inlet-64554.herokuapp.com/
